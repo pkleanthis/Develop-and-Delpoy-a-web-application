@@ -1,0 +1,16 @@
+
+Website
+1)https://www.geeksforgeeks.org/java-servlet-and-jdbc-example-insert-data-in-mysql/
+
+Book
+2)Head First Servlets and JSP_ Passing the Sun Certified Web Component Developer Exam
+
+Website
+3)https://www.javaguides.net/2020/01/jsp-servlet-mvc-example-with-database.html
+
+Website
+4)https://krazytech.com/programs/java-registration-page-using-servlet-mysql-mvc
+
+
+
+
